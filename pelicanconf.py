@@ -34,7 +34,7 @@ PLUGINS = [
 			'pelican_plugin-render_math',
 			'summary',
 			'neighbors',
-            'ipynb',
+            'pelican-ipynb',
 ]
 
 # OUTPUT_PATH = '../rossant.github.io'
