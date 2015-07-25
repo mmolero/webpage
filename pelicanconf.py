@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-# SITEURL = 'http://mmolero.github.io'
-SITEURL = ''  # FOR LOCAL DEV ONLY
+SITEURL = 'http://mmolero.github.io'
+#SITEURL = ''  # FOR LOCAL DEV ONLY
 
 AUTHOR = u'Miguel Molero-Armenta'
 SITENAME = u"Miguel Molero's blog"
