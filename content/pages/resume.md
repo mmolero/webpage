@@ -27,16 +27,16 @@ Scientific computing; Software Development; digital signal and image processing;
 Technical Skill
 -----
 
--Modeling, simulation and optimization
--System Integration, Algorithm development 
--Data visualization
--Data processing, Pattern Recognition, Machine Learning
--Signal & Image processing 
--Ultrasonic Nondestructive Evaluation, NDE
--C/C++/C#/Matlab/Python; 
--Windows/MacOSX/Linux; 
--Parallel Programming via PyOpenCL (CPUs/GPUs); 
--DSP & Microcontroller Programming
+- Modeling, simulation and optimization
+- System Integration, Algorithm development 
+- **Data visualization**
+- Data processing, Pattern Recognition, **Machine Learning**
+- **Signal & Image processing **
+- **Ultrasonic** Nondestructive Evaluation, NDE
+- C/C++/C#/Matlab/**Python**; 
+- Windows/MacOSX/Linux; 
+- Parallel Programming via PyOpenCL (CPUs/GPUs); 
+- DSP & Microcontroller Programming
 
 
 Professional experience
