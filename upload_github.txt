@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m Initial
+git remote add origin https://github.com/mmolero/mmolero.github.io.git
+git push origin master --force
+
+
